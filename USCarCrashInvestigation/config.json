@@ -1,0 +1,27 @@
+{
+"ZippedInput": "input/Data.zip",
+"ExtractTo": "input/",
+"ExtractedInput": 
+   {
+    "Charges":"Data/Charges_use.csv",
+    "Damages":"Data/Damages_use.csv",
+    "Endorse":"Data/Endorse_use.csv",
+    "PrimaryPerson":"Data/Primary_Person_use.csv",
+    "Restrict":"Data/Restrict_use.csv",
+    "Units":"Data/Units_use.csv"
+   },
+"Output": 
+   {
+    "Analytics 1":"Output/analytics1/",
+    "Analytics 2":"Output/analytics2/",
+    "Analytics 3":"Output/analytics3/",
+    "Analytics 4":"Output/analytics4/",
+    "Analytics 5":"Output/analytics5/",
+    "Analytics 6":"Output/analytics6/",
+    "Analytics 7":"Output/analytics7/",
+    "Analytics 8":"Output/analytics8/",
+    "Analytics 9":"Output/analytics9/",
+    "Analytics 10":"Output/analytics10/"
+   },
+"OutputFormat": "csv"
+}
